@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Model Weights
 Due to file size limitations, pre-trained weights are hosted externally:<a href='https://drive.google.com/file/d/1WwdCJbnk0RAxdPA_QqNqxhq3IEN2dHB-/view?usp=sharing'>ProteinBERT</a>. 
-<br>Please download the file, create the directory models/protein_bert/, and place the model weights there.
+<br>Please download the file, create the directory 'models/protein_bert/', and place the model weights there.
 
 ## Usage
 Open code.ipynb in Jupyter Lab or Jupyter Notebook and run the cells sequentially.
