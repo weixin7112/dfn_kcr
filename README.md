@@ -17,5 +17,5 @@ pip install -r requirements.txt
 Open code.ipynb in Jupyter Lab or Jupyter Notebook and run the cells sequentially.
 
 ## Notes
-Ensure the ProteinBERT weights are placed in models/protein_bert/ before running the code.
+Ensure the <a href='https://huggingface.co/GrimSqueaker/proteinBERT>'ProteinBERT</a> weights are placed in models/protein_bert/ before running the code.
 Place the datasets in the datasets/ directory.
